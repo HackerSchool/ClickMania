@@ -1,13 +1,13 @@
 # ClickMania
 
-Nome do Projeto: ClickWar
+Nome do Projeto: ClickMania
 
 Lider: Pedro Rodrigues
 
 Março 17, 2019
 
 Descrição do Projeto
-	O ClickWar (nome ainda a ponderar), consiste num jogo para 2 jogadores para plataformas móveis.
+	O ClickMania (nome ainda a ponderar), consiste num jogo para 2 jogadores para plataformas móveis.
 	Consiste na divisão do ecrã do dispositivo em dois campos, um do Jogador1 e o outro do Jogador2, onde o objetivo é conquistar o ecrã todo do dispositivo, carregando no ecrão mais vezes que o adversário. É um jogo de confronto direto, onde os dois jogadores carregam em simultâneo no ecrã.
 
 Objectivos de Aprendizagem
